@@ -1,0 +1,10 @@
+django
+django-cors-headers
+djangorestframework
+django-allauth
+djangorestframework-simplejwt
+celery[redis]
+django-celery-beat
+mysqlclient
+spotipy
+cryptography
